@@ -1,0 +1,1 @@
+ID: C003, Nome: alala, Level: 1, HP: 40, XP: 105

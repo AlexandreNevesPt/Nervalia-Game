@@ -1,0 +1,1 @@
+ID: C002, Nome: Liliana, Level: 1, HP: 100, XP: 0

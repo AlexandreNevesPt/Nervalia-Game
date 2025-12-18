@@ -1,0 +1,1 @@
+ID: C002, Nome: tio, Level: 1222, HP: 100222, XP: 220

@@ -1,0 +1,47 @@
+Historia do jogo:
+- Umm cavaleiro, numa aventura muito louca a procura da tua princesa perdida… Durante a tua jornada, teras que fazer escolhas, e essas escolhas, vão definir o teu caminho.
+  A princesa chamasse seya, e ela era a princesa do reino Nervalia, era  muito querida por todos, até que um dia, um ogre das terras distantes capturou-a. 
+  O ogre prendeu a princesa em um castelo nas terras distantes, e então, como sua obrigação, ele vai passar por caminhos e desafios imagináveis para consegui-la de volta.
+
+Partes da historia:
+[Historia contada aqui].
+Escolha 1: 
+     O Rei(Pai de seya) pergunta-te se queres aceitar a missão de recuperar a princesa seya.
+          Sim: Continua a historia
+          Não: O jogo acaba e mostra a seguinte mensagem: "Com o grande cavaleiro das terras de nervalia a desistir da escolha de salvar a princesa, a princesa ficou pelo resto da eternidade presa dentro daquela torre mal cheirosa, suja e com um Ogre lá dentro com ela.
+
+Escolha 2: 
+     O rei oferece-te um mapa, tu pegas nele, e vez o grande caminho que tens a percorrer.
+     O rei pergunta se queres um animal  para te acompanhar nesta jornada:
+          Sim: [Caminho 2]
+          Não: [Caminho 3]
+      
+     Caminho 2: 
+            O rei dá-te uma escolha, entre três animais, uma aguia(da-te dano), um cão(da-te vida), um porco(da-te xp)
+           Escolha 3: 
+            Porco(Xp)
+            Águia(Damange)
+            Cão(Hp)   
+             (Quando o jogador escolher o animal, adiciona 10 pontos nos status dependendo do animal que escolheu. 
+             Agora com o animal escolhido, o rei diz que podes começar a tua jornada... E da-te dez moedas de ouro.
+
+     Caminho 3:
+           O rei diz que podes começar a tua jornada… E da-te dez moedas de ouro.
+
+
+Escolha 4:
+     Sais do castelo real, enquanto andas para fora do reino de nervalia, deparas-te com uns mauzões, eles dizem para parares e para dares algum do teu dinheiro que tens(10 moeda)
+         Atacar: Perdes 5 de Hp, mas prendes eles numa prisão próxima de ti. E continuas o teu caminho.
+         Dar: Perdes as 5 moedas. E continuas o teu caminho.
+
+
+Escolha 5:
+      Encontras uma loja, estranha, enquanto andavas pela floresta.
+      O vendedor- "Ola cavaleiro, vejo que perdeste um pouco da tua vida hahahaha. Se tomares esta poção ganhas 5 de vida, va-la, toma"
+          Aceitar: Bebes a poção, és curado, mas o vendedor estranho cobra-te 5 moedas pela poção(-5 moedas). E depois, continuas o teu caminho.
+          Recusar: Continuas o teu caminho.
+
+Escolha 6.
+      Encontras uma mulher, pobre, desesperada com 3 filhos, ela pede-te de joelhos 3 moedas.
+           Dar: Se o jogador não tiver pelo menos 3 moedas guardadas, diz a mulher que não tem e pede desculpa(a mulher começa a chorar e diz que causaste a morte dela e a dos seus filhos). Continuas o teu caminho, mas perdes 2 de hp.
+           Não dar: A mulher começa a chorar e diz que causaste a morte dela e a dos seus filhos. Continuas o teu caminho, mas perdes 5 de hp.
